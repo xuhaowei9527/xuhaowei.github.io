@@ -1,16 +1,3 @@
-
-const Foo = { template: "<div>foo</div>" };
-const Bar = { template: "<div>bar</div>" };
-
-const routes = [
-  { path: "/foo", component: Foo },
-  { path: "/bar", component: Bar }
-];
-
-const router = new VueRouter({
-  routes
-});
-
-const app = new Vue({
-  router
-}).$mount("#app");
+// 注册导航
+import NavigationBar from "./static/pages/Navigation/navigation.js";
+const app = new Vue({}).$mount("#app");
