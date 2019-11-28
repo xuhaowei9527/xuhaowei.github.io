@@ -5,7 +5,7 @@ const template = `
       <div class="overlay"></div>
       <div class="container">
         <div class="row">
-          <div class="col-xs-12 col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
+          <div class="col-xs-12 col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8 site-padding">
             <div class="site-title">
 						  <span class="heading-page"> 欢迎来到我的主页
 						  </span>
