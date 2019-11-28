@@ -23,7 +23,7 @@ const template = `
 									<div></div>
 									<div></div>
 								</div>
-								<a href="https://www.17sucai.com/" class="hex-content">
+								<a href="" class="hex-content">
 									<span class="hex-content-inner">
 										<span class="icon">
 											<i class="fa fa-universal-access"></i>
@@ -44,7 +44,7 @@ const template = `
 									<div></div>
 									<div></div>
 								</div>
-								<a href="https://www.17sucai.com/" class="hex-content">
+								<a href="" class="hex-content">
 									<span class="hex-content-inner">
 										<span class="icon">
 											<i class="fa fa-bullseye"></i>
@@ -65,7 +65,7 @@ const template = `
 									<div></div>
 									<div></div>
 								</div>
-								<a href="https://www.17sucai.com/" class="hex-content">
+								<a href="" class="hex-content">
 									<span class="hex-content-inner">
 										<span class="icon">
 											<i class="fa fa-braille"></i>
@@ -86,7 +86,7 @@ const template = `
 									<div></div>
 									<div></div>
 								</div>
-								<a href="https://www.17sucai.com/" class="hex-content">
+								<a href="" class="hex-content">
 									<span class="hex-content-inner">
 										<span class="icon">
 											<i class="fa fa-life-ring"></i>
@@ -107,7 +107,7 @@ const template = `
 									<div></div>
 									<div></div>
 								</div>
-								<a href="https://www.17sucai.com/" class="hex-content">
+								<a href="" class="hex-content">
 									<span class="hex-content-inner">
 										<span class="icon">
 											<i class="fa fa-clipboard"></i>
