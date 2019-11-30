@@ -26,11 +26,11 @@ const template = `
 								<a href="" class="hex-content">
 									<span class="hex-content-inner">
 										<span class="icon">
-											<i class="fa fa-universal-access"></i>
+											<i class="fa fa-user-secret"></i>
 										</span>
-										<span class="title">Welcome</span>
+										<span class="title">个人信息</span>
 									</span>
-									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#6F7C6B"></path></svg>
 								</a>
 							</div>
 							<div class="hexagon-item">
@@ -47,11 +47,11 @@ const template = `
 								<a href="" class="hex-content">
 									<span class="hex-content-inner">
 										<span class="icon">
-											<i class="fa fa-bullseye"></i>
+											<i class="fab fa-firstdraft"></i>
 										</span>
-										<span class="title">About</span>
+										<span class="title">前端基础</span>
 									</span>
-									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#6F7C6B"></path></svg>
 								</a>
 							</div>
 							<div class="hexagon-item">
@@ -68,11 +68,11 @@ const template = `
 								<a href="" class="hex-content">
 									<span class="hex-content-inner">
 										<span class="icon">
-											<i class="fa fa-braille"></i>
+											<i class="fas fa-tools"></i>
 										</span>
-										<span class="title">Services</span>
+										<span class="title">框架工具</span>
 									</span>
-									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#6F7C6B"></path></svg>
 								</a>    
 							</div>
 							<div class="hexagon-item">
@@ -89,11 +89,11 @@ const template = `
 								<a href="" class="hex-content">
 									<span class="hex-content-inner">
 										<span class="icon">
-											<i class="fa fa-life-ring"></i>
+											<i class="fab fa-gg"></i>
 										</span>
-										<span class="title">Works</span>
+										<span class="title">工程模板</span>
 									</span>
-									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#6F7C6B"></path></svg>
 								</a>
 							</div>
 							<div class="hexagon-item">
@@ -110,11 +110,11 @@ const template = `
 								<a href="" class="hex-content">
 									<span class="hex-content-inner">
 										<span class="icon">
-											<i class="fa fa-clipboard"></i>
+											<i class="fas fa-bone"></i>
 										</span>
-										<span class="title">Testimonials</span>
+										<span class="title">源码理解</span>
 									</span>
-									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#6F7C6B"></path></svg>
 								</a>
 							</div>
 						</div>
