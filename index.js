@@ -1,3 +1,4 @@
-// 注册导航
-import NavigationBar from "./static/pages/Navigation/navigation.js";
-const app = new Vue({}).$mount("#app");
+import router from "./static/router/index.js"
+const app = new Vue({
+  router
+}).$mount("#app");
