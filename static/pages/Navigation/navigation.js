@@ -29,7 +29,9 @@ const NavigationBar = Vue.component(NavigationBarName, {
   methods: {
     routertocv() {
       this.$router.push("/CurriculumVitae")
-      console.log("注册导航");
+    },
+    routertoft() {
+      this.$router.push("/FrameworkTools")
     },
     handleSelect(key, keyPath) {
       console.log(key, keyPath);

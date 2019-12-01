@@ -65,7 +65,7 @@ const template = `
 									<div></div>
 									<div></div>
 								</div>
-								<a href="" class="hex-content">
+								<div class="hex-content" @click="routertoft">
 									<span class="hex-content-inner">
 										<span class="icon">
 											<i class="fas fa-tools"></i>
@@ -73,7 +73,7 @@ const template = `
 										<span class="title">框架工具</span>
 									</span>
 									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#6F7C6B"></path></svg>
-								</a>    
+								</div>    
 							</div>
 							<div class="hexagon-item">
 								<div class="hex-item">

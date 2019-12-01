@@ -11,6 +11,10 @@
   border-radius: 0px;
 }
 
+.cv-header:first-child {
+  border-radius: 0px;
+}
+
 .cv-body {
   background-color: #F5F1F0;
 }
