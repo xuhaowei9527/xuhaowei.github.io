@@ -1,0 +1,45 @@
+.cv-card {
+  font-size: 20px;
+  margin: 20px;
+  height: calc(100vh - 40px);
+  border-radius: 0px;
+}
+
+.cv-header {
+  color: #F5F1F0;
+  background-color: #6F7C6B;
+  border-radius: 0px;
+}
+
+.cv-body {
+  background-color: #F5F1F0;
+}
+
+.cv-body .cv-p {
+  position: absolute;
+  left: 20px;
+  bottom: 4.25rem;
+}
+
+.cv-body .cv-wechat {
+  width: 265px;
+  height: 350px;
+  margin: 0 auto;
+  background-image: url(../../assets/Wechat.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.cv-footer {
+  background-color: #E1DFE4;
+}
+
+.cv-btn {
+  display: inline-block;
+  cursor: pointer;
+  color: #F5F1F0;
+  background-color: #6F7C6B;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
