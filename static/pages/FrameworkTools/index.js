@@ -1,6 +1,6 @@
 const template = `
-<div class="card cv-card">
-  <div class="card-header cv-header">
+<div class="card ft-card">
+  <div class="card-header ft-header">
     <ul class="nav justify-content-end">
       <li class="nav-item">
         <div class="nav-link active">Webpack</div>
@@ -28,13 +28,16 @@ const template = `
       <li class="nav-item">
         <div class="nav-link">Lodash</a>
       </li>
+      <li class="nav-item">
+        <div class="nav-link" @click="tonginx">Nginx</a>
+      </li>
     </ul>
   </div>
-  <div class="card-body cv-body">
-    
+  <div class="card-body ft-body">
+    <router-view></router-view>
   </div>
-  <div class="card-footer cv-footer">
-    <div class="cv-btn" @click="backtotop">回到首页</div>
+  <div class="card-footer ft-footer">
+    <div class="ft-btn" @click="backtotop">回到首页</div>
   </div>
 </div>
 `
@@ -50,6 +53,9 @@ const FrameworkTools = Vue.component(FrameworkToolsName, {
   methods: {
     backtotop() {
       this.$router.push("/")
+    },
+    tonginx() {
+      this.$router.push("/FrameworkTools/Nginx")
     }
   }
 });

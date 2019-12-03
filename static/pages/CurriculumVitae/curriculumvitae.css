@@ -7,7 +7,7 @@
 
 .cv-header {
   color: #F5F1F0;
-  background-color: #6F7C6B;
+  background-color: var(--main-bg-color);
   border-radius: 0px;
 }
 
@@ -16,7 +16,7 @@
 }
 
 .cv-body {
-  background-color: #F5F1F0;
+  background-color: var(--main-card-body);
 }
 
 .cv-body .cv-wechat {
@@ -29,14 +29,14 @@
 }
 
 .cv-footer {
-  background-color: #E1DFE4;
+  background-color: var(--main-bg-color);
 }
 
 .cv-btn {
   display: inline-block;
   cursor: pointer;
-  color: #F5F1F0;
-  background-color: #6F7C6B;
+  color: var(--main-bg-color);
+  background-color: var(--main-card-body);
   padding: .375rem .75rem;
   font-size: 1rem;
   line-height: 1.5;

@@ -30,7 +30,7 @@ const template = `
 										</span>
 										<span class="title">个人信息</span>
 									</span>
-									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#6F7C6B"></path></svg>
+									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#517261"></path></svg>
 								</div>
 							</div>
 							<div class="hexagon-item">
@@ -51,7 +51,7 @@ const template = `
 										</span>
 										<span class="title">前端基础</span>
 									</span>
-									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#6F7C6B"></path></svg>
+									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#517261"></path></svg>
 								</a>
 							</div>
 							<div class="hexagon-item">
@@ -72,7 +72,7 @@ const template = `
 										</span>
 										<span class="title">框架工具</span>
 									</span>
-									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#6F7C6B"></path></svg>
+									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#517261"></path></svg>
 								</div>    
 							</div>
 							<div class="hexagon-item">
@@ -93,7 +93,7 @@ const template = `
 										</span>
 										<span class="title">工程模板</span>
 									</span>
-									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#6F7C6B"></path></svg>
+									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#517261"></path></svg>
 								</a>
 							</div>
 							<div class="hexagon-item">
@@ -114,7 +114,7 @@ const template = `
 										</span>
 										<span class="title">源码理解</span>
 									</span>
-									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#6F7C6B"></path></svg>
+									<svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#517261"></path></svg>
 								</a>
 							</div>
 						</div>

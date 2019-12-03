@@ -1,0 +1,38 @@
+.ft-card {
+  font-size: 20px;
+  margin: 20px;
+  height: calc(100vh - 40px);
+  border-radius: 0px;
+}
+
+.ft-card .nav-link:hover {
+  cursor: pointer;
+}
+
+.ft-header {
+  color: rgb(54, 20, 11);
+  background-color: var(--main-bg-color);
+  border-radius: 0px;
+}
+
+.ft-header:first-child {
+  border-radius: 0px;
+}
+
+.ft-body {
+  background-color: var(--main-card-body);
+}
+
+.ft-footer {
+  background-color: var(--main-bg-color);
+}
+
+.ft-btn {
+  display: inline-block;
+  cursor: pointer;
+  color: var(--main-bg-color);
+  background-color: var(--main-card-body);
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
