@@ -16,7 +16,8 @@ ul li {
 }
 
 p {
-    color: #8BAD9D;
+  font-size: 16px;
+  color: #8BAD9D;
 }
 
 pre {
@@ -24,4 +25,13 @@ pre {
   padding-bottom: 20px;
   color:#8BAD9D;
   background-color: #F6F6F6;
+}
+
+code {
+    font-size: 16px;
+}
+
+center img {
+  width:calc(100vw - 120px);
+  height: auto;
 }
