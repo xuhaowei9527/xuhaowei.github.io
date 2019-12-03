@@ -21,14 +21,11 @@ p {
 }
 
 pre {
+  font-size: 16px;
   padding-top: 20px;
   padding-bottom: 20px;
   color:#8BAD9D;
   background-color: #F6F6F6;
-}
-
-code {
-    font-size: 16px;
 }
 
 center img {
